@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    /* background-color: #F0FFF0; */
+}
+.navbar ul li{
+    padding:0 10px;
+}
+.nav-link{
+    color:white;
+}
+.navbar img{
+    width:198px;
+    height:59px;
+}
+.bg-img{
+    background-image:url("../Images/girl1.jpg");
+    min-height: 140vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border-bottom: 5px solid orange;
+}
+.baton{
+    background-color: #21B573;
+    border-radius:20px;
+    width: 100px;
+    text-align: center;
+    color: #fff;
+}
+.navbar-brand img{
+    height: 100px;
+    width:100px;
+}
+  

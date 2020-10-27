@@ -1,0 +1,15 @@
+.body{
+    display:flex;
+}
+.product-container{
+    border-right: 2px solid lightgrey;
+    border-top:5px solid orange;
+}
+.row h1{
+    margin:auto;
+    margin-bottom:5px;
+}
+.new{
+    margin-top:53px;
+    border-top:5px solid orange;
+}

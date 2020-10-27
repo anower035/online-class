@@ -1,0 +1,12 @@
+.Cart{
+    border-bottom:1px solid lightgrey;
+    text-align:left;
+    padding:10px;
+    line-height:15px;
+}
+.Cart h2{
+    text-align: center;
+    padding: 20px 0;
+
+}
+
